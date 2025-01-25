@@ -16,7 +16,7 @@ The main objective of this project is to get hands on learning on the topics tre
 ### Table of content
 1. [Sandwich program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/sandwich.ipynb).
    - **Question:** Write a function that accepts a list of items a person wants on a sandwich. The function should have one parameter that collects as many items as the function call provides, and it should print a summary of the sandwich that is being ordered. Call the function three times, using a different num ber of arguments each time.
-2. [User profile program]()
+2. [User profile program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/user_profile.ipynb)
    - **Question:** Start with a copy of user_profile.py from [page 153](https://drive.google.com/file/d/1muQhFz0kzZG72ZcBo1exF9t6EzjVvSe5/view?usp=sharing). Build a profile of yourself by calling build profile(), using your first and last names and three other key-value pairs that describe you.
 
 4. [Cars program]()
