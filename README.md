@@ -23,5 +23,6 @@ The main objective of this project is to get hands on learning on the topics tre
    - **Question:** Write a function that stores information about a car in a dictionary. The function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. Your function should work for a call like this one: car = make_car('subaru', 'outback', color='blue', tow_package=True) 
 Print the dictionary that’s returned to make sure all the information was stored correctly. 
 
-6. [Restaurants program]()
-7. 
+6. [Restaurants program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_class.ipynb)
+   - **Question:** Make a class called Restaurant. The __init__() method for Restaurant should store two attributes: a restaurant_name and a cuisine_type. Make a method called describe_restaurant() that prints these two pieces of information, and a method called open_restaurant() that prints a message indicating that the restaurant is open. Make an instance called restaurant from your class. Print the two attributes individually, and then call both methods. 
+8. 
