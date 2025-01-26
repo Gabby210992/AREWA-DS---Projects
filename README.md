@@ -23,9 +23,9 @@ The main objective of this project is to get hands on learning on the topics tre
    - **Question:** Write a function that stores information about a car in a dictionary. The function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. Your function should work for a call like this one: car = make_car('subaru', 'outback', color='blue', tow_package=True) 
 Print the dictionary that’s returned to make sure all the information was stored correctly. 
 
-6. [Restaurants program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_class.ipynb)
+5. [Restaurants program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_class.ipynb)
    - **Question:** Make a class called Restaurant. The __init__() method for Restaurant should store two attributes: a restaurant_name and a cuisine_type. Make a method called describe_restaurant() that prints these two pieces of information, and a method called open_restaurant() that prints a message indicating that the restaurant is open. Make an instance called restaurant from your class. Print the two attributes individually, and then call both methods. 
-8. #### Other Projects
+6. #### Other Projects
    - [Data Science Projects](https://github.com/Gabby210992/Happiness-Analysis)
    - [Game Programs](https://github.com/Gabby210992/game-programs)
      - [Fizzbuzz game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/fizzbuzz_game.py)
@@ -33,8 +33,8 @@ Print the dictionary that’s returned to make sure all the information was stor
      - [Rock scissors paper game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/rock_scissors_paper_game.py)
    - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
      - [Password generator app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/password_generator.py) 
-   ##### CAlculators and mathematical programs
+  7. #### Calculators and mathematical programs
      - [Prime number checker app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/prime_number_checker.py)
      - [Grading app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/grading%20app.py)
      - [Leap year generator app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/leap_year_calculator.py)
-     - []()
+     - [Building paint calculator app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/paint_calc.py)
