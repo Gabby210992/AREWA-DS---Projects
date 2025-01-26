@@ -28,4 +28,8 @@ Print the dictionary that’s returned to make sure all the information was stor
 8. #### Other Projects
    - [Data Science Projects](https://github.com/Gabby210992/Happiness-Analysis)
    - [Game Programs](https://github.com/Gabby210992/game-programs)
+     - [Guess the number]()
+     - []()
+     - []()
+     - []()
    - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
