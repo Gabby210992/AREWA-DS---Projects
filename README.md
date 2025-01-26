@@ -28,7 +28,7 @@ Print the dictionary that’s returned to make sure all the information was stor
 6. #### Other Projects
    - [Data Science Projects (in progress)](https://github.com/Gabby210992/Happiness-Analysis)
    - [Functions with return value](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/greeting_function.py)
-   - [NYSC Deployment program]()
+   - [NYSC Deployment program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/nysc_deployment_program.py)
    - [Game Programs](https://github.com/Gabby210992/game-programs)
      - [Fizzbuzz game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/fizzbuzz_game.py)
      - [Restaurant friendly game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_friendly_game.py)
