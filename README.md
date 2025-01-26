@@ -30,6 +30,6 @@ Print the dictionary that’s returned to make sure all the information was stor
    - [Game Programs](https://github.com/Gabby210992/game-programs)
      - [Guess the number]()
      - [Fizzbuzz game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/fizzbuzz_game.py)
-     - []()
+     - [Restaurant friendly game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_friendly_game.py)
      - []()
    - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
