@@ -31,8 +31,9 @@ Print the dictionary that’s returned to make sure all the information was stor
      - [Fizzbuzz game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/fizzbuzz_game.py)
      - [Restaurant friendly game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/restaurant_friendly_game.py)
      - [Rock scissors paper game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/rock_scissors_paper_game.py)
-     - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
+   - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
+     - [Password generator app]() 
    ##### CAlculators and mathematical programs
      - [Prime number checker app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/prime_number_checker.py)
      - [Grading app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/grading%20app.py)
-     - 
+     - [Leap year generator app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/leap_year_calculator.py)
