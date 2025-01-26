@@ -34,4 +34,5 @@ Print the dictionary that’s returned to make sure all the information was stor
      - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
    ##### CAlculators and mathematical programs
      - [Prime number checker app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/prime_number_checker.py)
+     - [Grading app](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/grading%20app.py)
      - 
