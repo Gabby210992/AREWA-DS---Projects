@@ -29,7 +29,7 @@ Print the dictionary that’s returned to make sure all the information was stor
    - [Data Science Projects](https://github.com/Gabby210992/Happiness-Analysis)
    - [Game Programs](https://github.com/Gabby210992/game-programs)
      - [Guess the number]()
-     - []()
+     - [Fizzbuzz game](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/fizzbuzz_game.py)
      - []()
      - []()
    - [Encryption and Security programs](https://github.com/Gabby210992/Caesar_cipher_Program)
