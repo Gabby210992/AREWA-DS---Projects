@@ -1,5 +1,5 @@
 # AREWA-DS Projects
-This is a collection os some projects done during AREWA Data Science Academy
+This is a repository that contains some projects done in my python programming learning and also some simple data science projects practice
 
 ### Project Description
 This projects are exercises from the textbook we used during the Cohort 3.0 fellows. [click here to download](https://khwarizmi.org/wp-content/uploads/2021/04/Eric_Matthes_Python_Crash_Course_A_Hands.pdf)
