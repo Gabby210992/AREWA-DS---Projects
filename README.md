@@ -1,4 +1,4 @@
-# AREWA-DS Projects
+# My Projects
 This is a repository that contains some projects done in my python programming learning and also some simple data science projects practice
 
 ### Project Description
