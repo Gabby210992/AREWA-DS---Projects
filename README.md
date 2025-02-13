@@ -27,7 +27,7 @@ Print the dictionary that’s returned to make sure all the information was stor
    - **Question:** Make a class called Restaurant. The __init__() method for Restaurant should store two attributes: a restaurant_name and a cuisine_type. Make a method called describe_restaurant() that prints these two pieces of information, and a method called open_restaurant() that prints a message indicating that the restaurant is open. Make an instance called restaurant from your class. Print the two attributes individually, and then call both methods. 
 6. #### Other Projects
    - [Data Science Projects (in progress)](https://github.com/Gabby210992/Happiness-Analysis)
-   - [Machine Learning Projects]()
+   - [Machine Learning Projects](https://github.com/Gabby210992/Machine-Learning)
    - [EXcel Project (Student participation feedback)](https://docs.google.com/spreadsheets/d/1jil_qDNxdBO2kZ9PuT36QNSJqyKUURxA/edit?usp=sharing&ouid=111415622335817579678&rtpof=true&sd=true)
    - [Functions with return value](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/greeting_function.py)
    - [NYSC Deployment program](https://github.com/Gabby210992/AREWA-DS---Projects/blob/main/nysc_deployment_program.py)
